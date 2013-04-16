@@ -12,4 +12,10 @@ two:
   image_url: MyString
   price: 9.99
 
+ruby: 
+  title: Programming ruby 
+  description: sdgsdfgsdfgsdfgsdfgsdfgsdf
+  price: 99.02
+  image_url: rails.jpg
+
 
